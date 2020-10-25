@@ -17,7 +17,7 @@ Directions API to create a travel itinerary.
 
 ![Challenge Deliverable 3](https://github.com/greensleeves8/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
-- Travel intinerary with info boxes:
+- Travel itinerary with info boxes:
 
 ![Deliverable 3, Cont.](https://github.com/greensleeves8/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
